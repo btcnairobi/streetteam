@@ -1,0 +1,9 @@
+{
+  "name": "Street Team Bitcoin",
+  "description": "A field operations tool for Bitcoin Street Teams to manage recruitment, training, and merchant onboarding based on the Strategy 1 framework.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
